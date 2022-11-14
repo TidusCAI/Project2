@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mycodingassignment</title>
+    <link href="/solution2.css" rel="stylesheet">
+</head>
+<body>
+<h1>Our Menu</h1>
+<div class="big">
+    <div class = "col-lg-3 col-md-5 col-sm-11">
+        <div class = "section">
+        <h2 class = "pink">Chicken</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus sapiente, inventore aliquam quisquam, commodi, minus quod nam cum voluptatem porro ad aut sed. Eveniet minus hic laborum similique. Sequi, ullam?</p>
+        </div>
+    </div>
+    <div class = "col-lg-3 col-md-5 col-sm-11">
+    <div class = "section">
+            <h2>Beef</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga, facilis, natus debitis cumque quisquam vero impedit repudiandae voluptas corporis optio qui. Nisi quasi dicta natus obcaecati eum quisquam id ullam?</p>
+        </div>
+      </div>
+    <div class = "col-lg-3 col-md-11 col-sm-11">
+     <div class = "section">
+            <h2 class = "yellow">Sushi</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe unde illo dolorum sequi assumenda id commodi ut nisi nemo! Quae saepe nesciunt neque, velit quidem corporis est reiciendis quis voluptas.</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
+
