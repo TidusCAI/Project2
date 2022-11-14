@@ -210,13 +210,13 @@ h2.yellow{
 
     h2.pink{
         margin:auto;
-        margin-left: 275px;
+        margin-left: 265px;
         margin-right: 0;
         width: auto;
         height: 33px;
         background-color:pink;
         min-width: 89px;
-        max-width: 145px;
+        max-width: 147px;
         font-size: 1.7rem;
         color: black;
         border: 1px solid black;
