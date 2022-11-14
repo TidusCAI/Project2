@@ -217,32 +217,32 @@ h2.yellow{
         background-color:pink;
         min-width: 89px;
         max-width: 149px;
-        font-size: 1.7rem;
+        font-size: 1.5rem;
         color: black;
         border: 1px solid black;
     }
     h2{
         margin:auto;
-        margin-left: 275px;
+        margin-left: 250px;
         margin-right: 0;
         width: auto;
         height: 33px;
         background-color: brown;
         min-width: 49px;
-        max-width: 135px;
-        font-size: 1.7rem;
+        max-width: 149px;
+        font-size: 1.5rem;
         border: 1px solid black;
         color:rgb(238, 251, 251);
     }
     h2.yellow{
         margin:auto;
-        margin-left: 261px;
+        margin-left: 250px;
         width: auto;
         height: 33px;
         background-color:rgb(238, 233, 158);
         min-width: 58px;
-        max-width: 135px;
-        font-size: 1.7rem;
+        max-width: 149px;
+        font-size: 1.5rem;
         color: black;
         border: 1px solid black;
 }
