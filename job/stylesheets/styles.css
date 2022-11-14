@@ -205,6 +205,7 @@ h2.yellow{
         color: antiquewhite;
         text-align: center;
         border: 1.5px solid black;
+        min-width: 340px;
     }
 
     h2.pink{
@@ -214,8 +215,8 @@ h2.yellow{
         width: auto;
         height: 33px;
         background-color:pink;
-        min-width: 49px;
-        max-width: 135px;
+        min-width: 89px;
+        max-width: 145px;
         font-size: 1.7rem;
         color: black;
         border: 1px solid black;
